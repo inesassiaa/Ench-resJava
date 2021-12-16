@@ -1,0 +1,12 @@
+Commandes pour Admin
+ADMIN (pour se connecter)
+ENCHERE desc##prix##temps(min) (pour créer une enchere)
+
+
+Commandes pour Membre
+LOGIN nom (pour se connecter)
+ENCHRERES (pour voir toutes les encheres)
+ENCHREREC (pour voir toutes les encheres en cours)
+OFFRE idEnchere##prix (pour proposer une offre pour une enchere)
+OFFRES (pour voir les offres que tu as fait)
+OFFREG (pour voir les offres que tu as gagné)
